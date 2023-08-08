@@ -160,9 +160,8 @@
 		    	navbar.attr('aria-expanded', 'false');
 		    	$('.js-colorlib-nav-toggle').removeClass('active');
 		    }
-
-		    event.preventDefault();
-		    return false;
+		    //event.preventDefault();
+		    return true;
 		});
 
 
