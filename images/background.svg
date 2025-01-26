@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.44627497"
-     inkscape:cx="400"
-     inkscape:cy="451.13581"
+     inkscape:zoom="0.49183148"
+     inkscape:cx="-129.65296"
+     inkscape:cy="449.10259"
      inkscape:document-units="mm"
      inkscape:current-layer="g23"
      inkscape:document-rotation="0"
@@ -74,7 +74,9 @@
          style="font-size:16.9333px;line-height:0;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';stroke-width:0.264583"
          x="68.770012"
          y="89.38784"
-         id="text94"><tspan
+         id="text94"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
            sodipodi:role="line"
            id="tspan92"
            x="68.770012"
@@ -89,7 +91,7 @@
            x="68.770012"
            y="118.03395"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
-           id="tspan98">Científico de datos </tspan><tspan
+           id="tspan98">Ingeniero de IA </tspan><tspan
            sodipodi:role="line"
            x="68.770012"
            y="129.3934"
@@ -110,6 +112,15 @@
            y="163.47174"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
            id="tspan17">aplicada.</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:1.11178;stroke-linejoin:round;stroke-opacity:0"
+         id="rect17"
+         width="238.14606"
+         height="214.50125"
+         x="15.920205"
+         y="10.694627"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250" />
     </g>
   </g>
 </svg>

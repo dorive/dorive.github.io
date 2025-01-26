@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="background.svg"
+   sodipodi:docname="background_en.svg"
    inkscape:export-filename="/home/david/dorive.github.io/images/background.png"
    inkscape:export-xdpi="250"
    inkscape:export-ydpi="250">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.44627497"
-     inkscape:cx="400"
-     inkscape:cy="451.13581"
+     inkscape:zoom="0.49183148"
+     inkscape:cx="569.79418"
+     inkscape:cy="446.96812"
      inkscape:document-units="mm"
      inkscape:current-layer="g23"
      inkscape:document-rotation="0"
@@ -39,7 +39,8 @@
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -89,27 +90,54 @@
            x="68.770012"
            y="118.03395"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
-           id="tspan98">Científico de datos </tspan><tspan
+           id="tspan17">Machine learning</tspan><tspan
            sodipodi:role="line"
            x="68.770012"
            y="129.3934"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
-           id="tspan100">con experiencia en </tspan><tspan
+           id="tspan32">engineer with</tspan><tspan
            sodipodi:role="line"
            x="68.770012"
            y="140.75284"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
-           id="tspan102">finanzas cuantitativas. </tspan><tspan
+           id="tspan34">experience in quant</tspan><tspan
            sodipodi:role="line"
            x="68.770012"
            y="152.11229"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
-           id="tspan15">Doctor en matemática</tspan><tspan
+           id="tspan36">finance. PhD in</tspan><tspan
            sodipodi:role="line"
            x="68.770012"
            y="163.47174"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
-           id="tspan17">aplicada.</tspan></text>
+           id="tspan38">applied mathematics</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:1.11178;stroke-linejoin:round;stroke-opacity:0"
+         id="rect40"
+         width="226.56456"
+         height="222.2319"
+         x="27.049725"
+         y="7.3554211"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:1.11178;stroke-linejoin:round;stroke-opacity:0"
+         id="rect20"
+         width="255.20244"
+         height="231.33653"
+         x="0.22954318"
+         y="0.45725259"
+         ry="10.143398" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:1.11178;stroke-linejoin:round;stroke-opacity:0"
+         id="rect22"
+         width="248.84636"
+         height="220.33261"
+         x="6.398818"
+         y="7.8136239"
+         ry="10.143411"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250" />
     </g>
   </g>
 </svg>
